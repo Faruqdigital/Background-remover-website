@@ -35,4 +35,9 @@ body{
     span{
         @apply text-[#D21EA4] border border-rose-400 leading-4;
     }
+
+    /* feature section */
+    /* .box{
+        @apply ;
+    } */
 }
